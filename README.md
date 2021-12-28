@@ -1,1 +1,1 @@
-# Pr-cticaLATAM
+# PrácticaLATAM
